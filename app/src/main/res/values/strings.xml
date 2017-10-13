@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">LondonGame</string>
+    <string name="action_inventory">Inventory</string>
+    <string name="action_stats">Player stats</string>
+    <string name="action_save">Save game</string>
+    <string name="datapoint_base_url">
+        https://api.tfl.gov.uk/BikePoint?app_id=d20bc82b&amp;app_key=0e4c8a29aa38279db68ff92e5a8069dd
+</string>
+
+</resources>
